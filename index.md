@@ -6,7 +6,6 @@ Title: Welcome to Ethan's blog
 
 ## Today I ate eggs for breakfast 
 
-
-
+![dog photo](https://github.com/ethan-epstein/skills-github-pages/blob/my-pages/IMG_9311.jpeg)
 
 
